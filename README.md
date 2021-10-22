@@ -9,7 +9,7 @@ Public Repository:
 
 
 Private Repository:
-"git clone https://in03@github.com/YouTourDev/setup_new_editing_pc"
+"git clone https://YouTourDev@github.com/YouTourDev/setup_new_editing_pc"
 
 
 Python Package
