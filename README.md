@@ -13,14 +13,16 @@ Private Repository:
 
 
 Python Package
-"py -3.6 -m pip install git+https://YouTourDev@github.com/in03/resolve-queue-segments"
+"pipx install git+https://YouTourDev@github.com/in03/resolve-queue-segments"
 ```
 
 ### Authentication
+
 ```
 Username: "YouTourDev"
-Password: "YouTourDev - GitHub Private Repo API Token" (Token in LastPass)"
+Password: "YouTourDev - GitHub Private Repo API Token" (Search in LastPass)
 ```
+The access token expires every 90 days, so you will need to create another and add it to LastPass again if it has expired. Make sure you're logged in to YouTourDev, then manage account tokens here if necessary:  https://github.com/settings/tokens
 
 ### Additional Documentation Here!
 https://app.clickup.com/303363/docs/9883-1136/9883-1122
