@@ -16,7 +16,7 @@ Here's a brief list of the tools and what they do:
 
 ## Premiere
 - [Smooth as Butta](https://github.com/YouTourDev/smoothasbutta) - keyboard macros for YouTour flythrough editing (Windows only, legacy)
-- WatchDoge - network rendering with in UI render-queuing (legacy)
+- [WatchDoge](https://github.com/YouTourDev/watchdoge) - network rendering with in UI render-queuing (legacy)
 
 
 A python package like [Snapper](https://github.com/youtourdev/snapper) can be installed like so: 
