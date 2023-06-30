@@ -59,7 +59,7 @@ If you require the LastPass password for `post@youtour.com.au`, contact Daniel B
 
 You should see something like this:
 
-```bash
+```
 bash-3.2$ gh auth login
 ? What account do you want to log into? GitHub.com
 ? What is your preferred protocol for Git operations? SSH
@@ -73,9 +73,8 @@ Press Enter to open github.com in your browser...
 ```
 
 ![image](https://github.com/YouTourDev/YouTourDev/assets/92896767/1456f9f2-99bf-450d-a99a-aacced7bff41)
-![Screenshot 2023-06-30 at 10 33 36 am](https://github.com/YouTourDev/YouTourDev/assets/92896767/b0b5025c-f403-4911-80c9-542679597776)
 
-```bash
+```
 ✓ Authentication complete.
 - gh config set -h github.com git_protocol ssh
 ✓ Configured git protocol
@@ -84,6 +83,10 @@ Press Enter to open github.com in your browser...
 ```
 
 Now you have read and write access to all private GitHub repositories under YouTourDev.
+You can directly install Python applications like this:
+```
+pipx install git+https://github.com/youtourdev/bookie
+```
 
 
    
