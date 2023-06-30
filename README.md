@@ -15,8 +15,7 @@ Here's a brief list of the tools and what they do:
 - [Squawk](https://github.com/youtourdev/squawk) - automatic, round-tripped subtitles
 
 ## Premiere
-- [Smooth as Butta](https://github.com/YouTourDev/smoothasbutta) - keyboard macros for YouTour flythrough editing (Windows only, legacy)
-- [WatchDoge](https://github.com/YouTourDev/watchdoge) - network rendering with in UI render-queuing (legacy)
+- [Smooth as Butta](https://github.com/YouTourDev/smoothasbutta) - keyboard macros and extra tools for YouTour flythrough editing (Windows only, legacy)
 
 
 A python package like [Snapper](https://github.com/youtourdev/snapper) can be installed like so: 
